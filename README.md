@@ -10,7 +10,7 @@ https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 ---------------------------------------------------
 
 A few tips
-
+---------------------------------------------------
 Press Enter to start
 
 A and D to move your spaceship
