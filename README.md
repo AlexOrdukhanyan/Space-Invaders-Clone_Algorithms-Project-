@@ -4,10 +4,10 @@ A Space Invadres Clone game written using C++ graphic library SFML
 
 Here are some tips to download and install SFML on Microsoft Visual Studio
 
-https://www.youtube.com/watch?v=lFzpkvrscs4
-
 https://www.sfml-dev.org/tutorials/2.5/start-vc.php
----------------------------------------------------
+
+
+https://www.youtube.com/watch?v=lFzpkvrscs4
 
 A few tips
 ---------------------------------------------------
